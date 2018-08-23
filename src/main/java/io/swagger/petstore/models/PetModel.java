@@ -5,6 +5,7 @@ import com.fasterxml.jackson.annotation.JsonProperty;
 
 import javax.annotation.Generated;
 import java.util.List;
+import java.util.Locale;
 import java.util.Objects;
 
 @Generated("com.robohorse.robopojogenerator")
@@ -18,7 +19,7 @@ public class PetModel {
     @JsonProperty("id")
     private Integer id;
     @JsonProperty("category")
-    private Category category;
+    private Locale.Category category;
     @JsonProperty("tags")
     private List<TagsItem> tags;
     @JsonProperty("status")
@@ -28,7 +29,7 @@ public class PetModel {
 
     }
 
-    public PetModel(List<String> photoUrls, String name, Integer id, Category category, List<TagsItem> tags, String
+    public PetModel(List<String> photoUrls, String name, Integer id, Locale.Category category, List<TagsItem> tags, String
             status) {
         this.photoUrls = photoUrls;
         this.name = name;
@@ -75,11 +76,11 @@ public class PetModel {
         this.id = id;
     }
 
-    public Category getCategory() {
+    public Locale.Category getCategory() {
         return category;
     }
 
-    public void setCategory(Category category) {
+    public void setCategory(Locale.Category category) {
         this.category = category;
     }
 
@@ -142,7 +143,7 @@ public class PetModel {
         private List<String> photoUrls;
         private String name;
         private Integer id;
-        private Category category;
+        private Locale.Category category;
         private List<TagsItem> tags;
         private String status;
 
@@ -164,7 +165,7 @@ public class PetModel {
             return this;
         }
 
-        public Builder withCategory(Category val) {
+        public Builder withCategory(Locale.Category val) {
             category = val;
             return this;
         }
