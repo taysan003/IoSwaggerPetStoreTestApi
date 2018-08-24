@@ -1,4 +1,4 @@
-package io.swagger.petstore.models.зуе;
+package io.swagger.petstore.models.pet;
 
 import java.util.List;
 import com.fasterxml.jackson.annotation.JsonProperty;
@@ -25,7 +25,10 @@ public class PetModel{
 	@JsonProperty("status")
 	private String status;
 
-	public void setPhotoUrls(List<String> photoUrls){
+    public PetModel(int idTestValue, Object o, String testPetName, Object o1, Object o2, String available) {
+    }
+
+    public void setPhotoUrls(List<String> photoUrls){
 		this.photoUrls = photoUrls;
 	}
 

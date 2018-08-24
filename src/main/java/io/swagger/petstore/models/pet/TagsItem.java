@@ -1,4 +1,4 @@
-package io.swagger.petstore.models.зуе;
+package io.swagger.petstore.models.pet;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import javax.annotation.Generated;
