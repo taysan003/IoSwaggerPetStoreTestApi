@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1c9b4e7-b9bb-459a-ba3d-cd57f3f8c4c4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/io/swagger/petstore/models/PetModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/swagger/petstore/models/PetModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/swagger/petstore/models/PetModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/swagger/petstore/models/зуе/PetModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/swagger/petstore/models/TagsItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/swagger/petstore/models/зуе/TagsItem.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -32,14 +33,14 @@
         <counts>
           <entry key="gitignore" value="2" />
           <entry key="gradle" value="1" />
-          <entry key="java" value="4" />
+          <entry key="java" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Git file" value="2" />
           <entry key="Groovy" value="1" />
-          <entry key="JAVA" value="4" />
+          <entry key="JAVA" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -68,10 +69,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/io/swagger/petstore/models/PetModel.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/io/swagger/petstore/models/зуе/PetModel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+            <state relative-caret-position="3720">
+              <caret line="185" column="1" selection-start-line="185" selection-start-column="1" selection-end-line="185" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1327#1328#0" expanded="true" />
@@ -110,10 +111,41 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/io/swagger/petstore/models/TagsItem.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/io/swagger/petstore/models/зуе/Category.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48">
-              <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+            <state relative-caret-position="264">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#324#325#0" expanded="true" />
+                <element signature="e#351#352#0" expanded="true" />
+                <element signature="e#391#392#0" expanded="true" />
+                <element signature="e#423#424#0" expanded="true" />
+                <element signature="e#449#450#0" expanded="true" />
+                <element signature="e#474#475#0" expanded="true" />
+                <element signature="e#507#508#0" expanded="true" />
+                <element signature="e#535#536#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/io/swagger/petstore/models/зуе/TagsItem.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="936">
+              <caret line="39" column="1" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#324#325#0" expanded="true" />
+                <element signature="e#351#352#0" expanded="true" />
+                <element signature="e#391#392#0" expanded="true" />
+                <element signature="e#423#424#0" expanded="true" />
+                <element signature="e#449#450#0" expanded="true" />
+                <element signature="e#474#475#0" expanded="true" />
+                <element signature="e#507#508#0" expanded="true" />
+                <element signature="e#535#536#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -121,7 +153,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/io/swagger/petstore/TestPet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="658">
+            <state relative-caret-position="672">
               <caret line="28" column="61" selection-start-line="28" selection-start-column="61" selection-end-line="28" selection-end-column="61" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -532,13 +564,16 @@
         <option value="$PROJECT_DIR$/src/test/java/io/swagger/petstore/TestPet.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/src/main/java/io/swagger/petstore/models/TagsItem.java" />
         <option value="$PROJECT_DIR$/src/main/java/io/swagger/petstore/models/PetModel.java" />
+        <option value="$PROJECT_DIR$/src/main/java/io/swagger/petstore/models/Category.java" />
+        <option value="$PROJECT_DIR$/src/main/java/io/swagger/petstore/models/зуе/Category.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="267" />
-    <option name="y" value="49" />
+    <option name="x" value="442" />
+    <option name="y" value="162" />
     <option name="width" value="1357" />
     <option name="height" value="953" />
   </component>
@@ -582,7 +617,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="models" type="462c0819:PsiDirectoryNode" />
+              <item name="зуе" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="io.swagger.petstore" type="b2602c69:ProjectViewProjectNode" />
@@ -629,7 +664,7 @@
   <component name="PropertiesComponent">
     <property name="add_unversioned_files" value="$PROJECT_DIR$/src/test/java/io/swagger/petstore/TestPet.java&#10;G:/APIAutoTesting/IoSwaggerPetStoreTestApi/src/main/java/Popo/PackClassTest.java&#10;G:/APIAutoTesting/IoSwaggerPetStoreTestApi/src/test/java/io/swagger/petstore/Test.java&#10;G:/APIAutoTesting/IoSwaggerPetStoreTestApi/.gitignore" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535053400080" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535074607689" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunDashboard">
@@ -644,7 +679,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TestPet.petTest">
+  <component name="RunManager" selected="JUnit.TestPet">
     <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
     </configuration>
@@ -675,6 +710,21 @@
         <option name="vmOptions" />
       </ExternalSystemSettings>
       <method v="2" />
+    </configuration>
+    <configuration name="TestPet" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="io.swagger.petstore_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.swagger.petstore.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="io.swagger.petstore" />
+      <option name="MAIN_CLASS_NAME" value="io.swagger.petstore.TestPet" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="TestPet.petTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="io.swagger.petstore_test" />
@@ -710,21 +760,17 @@
     <list>
       <item itemvalue="Gradle.IoSwaggerPetStoreTestApi" />
       <item itemvalue="JUnit.TestPet.petTest" />
+      <item itemvalue="JUnit.TestPet" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TestPet" />
         <item itemvalue="JUnit.TestPet.petTest" />
         <item itemvalue="Gradle.IoSwaggerPetStoreTestApi" />
       </list>
     </recent_temporary>
   </component>
   <component name="TestHistory">
-    <history-entry file="TestPet_petTest - 2018.08.22 at 23h 03m 18s.xml">
-      <configuration name="TestPet.petTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestPet_petTest - 2018.08.22 at 23h 05m 11s.xml">
-      <configuration name="TestPet.petTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="TestPet_petTest - 2018.08.22 at 23h 31m 19s.xml">
       <configuration name="TestPet.petTest" configurationId="JUnit" />
     </history-entry>
@@ -746,9 +792,18 @@
     <history-entry file="TestPet_petTest - 2018.08.22 at 23h 41m 58s.xml">
       <configuration name="TestPet.petTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="TestPet_petTest - 2018.08.23 at 15h 43m 07s.xml">
+      <configuration name="TestPet.petTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestPet_petTest - 2018.08.23 at 18h 14m 39s.xml">
+      <configuration name="TestPet.petTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestPet - 2018.08.23 at 18h 15m 25s.xml">
+      <configuration name="TestPet" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="185" y="1016" width="1357" height="857" extended-state="1" />
+    <frame x="442" y="162" width="1357" height="953" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18812644" />
@@ -760,7 +815,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.30368763" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33821735" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -791,13 +846,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/io/swagger/petstore/TestPet.java">
+    <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="658">
-          <caret line="28" column="61" selection-start-line="28" selection-start-column="61" selection-end-line="28" selection-end-column="61" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="480">
+          <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
         </state>
       </provider>
     </entry>
@@ -808,17 +860,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
+    <entry file="file://$PROJECT_DIR$/src/test/java/io/swagger/petstore/TestPet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+        <state relative-caret-position="672">
+          <caret line="28" column="61" selection-start-line="28" selection-start-column="61" selection-end-line="28" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/io/swagger/petstore/models/PetModel.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/swagger/petstore/models/зуе/TagsItem.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+        <state relative-caret-position="936">
+          <caret line="39" column="1" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#324#325#0" expanded="true" />
+            <element signature="e#351#352#0" expanded="true" />
+            <element signature="e#391#392#0" expanded="true" />
+            <element signature="e#423#424#0" expanded="true" />
+            <element signature="e#449#450#0" expanded="true" />
+            <element signature="e#474#475#0" expanded="true" />
+            <element signature="e#507#508#0" expanded="true" />
+            <element signature="e#535#536#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/swagger/petstore/models/зуе/PetModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3720">
+          <caret line="185" column="1" selection-start-line="185" selection-start-column="1" selection-end-line="185" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1327#1328#0" expanded="true" />
@@ -855,10 +928,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/io/swagger/petstore/models/TagsItem.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/swagger/petstore/models/зуе/Category.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        <state relative-caret-position="264">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#324#325#0" expanded="true" />
+            <element signature="e#351#352#0" expanded="true" />
+            <element signature="e#391#392#0" expanded="true" />
+            <element signature="e#423#424#0" expanded="true" />
+            <element signature="e#449#450#0" expanded="true" />
+            <element signature="e#474#475#0" expanded="true" />
+            <element signature="e#507#508#0" expanded="true" />
+            <element signature="e#535#536#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
